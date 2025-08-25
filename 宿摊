@@ -1,4 +1,4 @@
-        local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/pizzytv/roblo/refs/heads/main/%E5%AE%BF%E6%91%8A"))()
+        local WindUI = loadstring(game:HttpGet("https://pastefy.app/ddceJmmm/raw"))()
 
         WindUI:Popup({
             Title = "👑尊贵的"..game.Players.LocalPlayer.DisplayName.."用户",
